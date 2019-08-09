@@ -1,8 +1,9 @@
 # NodejsMySQL
+Objective: 
 
-Nodejs & MySQL! 
+- An app using MySQL to enter product, pricing, and quantity while using Node to run the app to buy the products. 
 
-    An app using MySQL to enter product, pricing, and quantity while using Node to run the app to buy the products. 
+Instructions on how to run with demo images:
 
 - Starting from the terminal (already on the file path)
 
@@ -32,3 +33,8 @@ Nodejs & MySQL!
 
 
 - The quantity from the product is then deducted and gives the option to choose another product and quantity
+
+Built with:
+Javascript
+Node.js
+MySQL
