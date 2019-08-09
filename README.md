@@ -12,23 +12,23 @@ Nodejs & MySQL!
     - Options for products, pricing, and quantity will appear
     - Option to Quit will appear
     
-![alt text](images/second.png)
+<img src="images/second.png" width=auto height="250">
 
 - If Q is pressed then app Quits
 
-![alt text](images/third.png)
+<img src="images/third.png" width=auto height="250">
 
 - To select a product type in product name 
 
-![alt text](images/fourth.png)
+<img src="images/fourth.png" width=auto height="250">
 
 - Type in quantity
 
-![alt text](images/fifth.png)
+<img src="images/fifth.png" width=auto height="250">
 
 - A message will say product bought, which is successful
 
-![alt text](images/sixth.png)
+<img src="images/sixth.png" width=auto height="300">
 
 
 - The quantity from the product is then deducted and gives the option to choose another product and quantity
