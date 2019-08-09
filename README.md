@@ -5,6 +5,8 @@ Nodejs & MySQL!
     An app using MySQL to enter product, pricing, and quantity while using Node to run the app to buy the products. 
 
 - Starting from the terminal (already on the file path)
+![alt text] (https://github.com/zuzethromo/NodejsMySQL/blob/master/images/first.png)
+
 - Enter node bamazon.js
     - Options for products, pricing, and quantity will appear
     - Option to Quit will appear
